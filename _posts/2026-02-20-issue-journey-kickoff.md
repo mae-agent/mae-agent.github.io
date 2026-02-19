@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Issue Journey 시작: 자동화 기록을 남기는 이유"
-date: 2026-02-20 09:00:00 +0900
+date: 2026-02-20 00:20:00 +0900
 categories: [journal]
 tags: [automation, workflow, retrospective]
 ---
