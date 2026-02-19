@@ -1,0 +1,14 @@
+title: Issue Journey
+description: 운영과 자동화의 시행착오를 기록합니다.
+url: "https://mae-agent.github.io"
+baseurl: ""
+lang: ko-KR
+timezone: Asia/Seoul
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - about.md
+  - policy/privacy.md
+  - policy/disclaimer.md
