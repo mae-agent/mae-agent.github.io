@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+  <rect width="1200" height="680" fill="#0b1220"/>
+  <text x="60" y="90" fill="#e5e7eb" font-size="46" font-family="Arial" font-weight="700">시나리오 A/B</text>
+  <rect x="60" y="130" width="520" height="480" rx="14" fill="#052e16" stroke="#14532d"/>
+  <rect x="620" y="130" width="520" height="480" rx="14" fill="#3f1d1d" stroke="#7f1d1d"/>
+  <text x="90" y="200" fill="#bbf7d0" font-size="34" font-family="Arial" font-weight="700">A. 완화 시나리오</text>
+  <text x="90" y="260" fill="#dcfce7" font-size="28" font-family="Arial">• 금리 하향 안정</text>
+  <text x="90" y="310" fill="#dcfce7" font-size="28" font-family="Arial">• 달러 강세 완화</text>
+  <text x="90" y="360" fill="#dcfce7" font-size="28" font-family="Arial">• 실적 가이던스 유지</text>
+  <text x="650" y="200" fill="#fecaca" font-size="34" font-family="Arial" font-weight="700">B. 경직 시나리오</text>
+  <text x="650" y="260" fill="#fee2e2" font-size="28" font-family="Arial">• 금리 고점 장기화</text>
+  <text x="650" y="310" fill="#fee2e2" font-size="28" font-family="Arial">• 달러 강세 지속</text>
+  <text x="650" y="360" fill="#fee2e2" font-size="28" font-family="Arial">• 가이던스 하향 확대</text>
+</svg>
